@@ -1,0 +1,30 @@
+/* Google Fonts Import */
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+.container{
+    font-family: 'Lora', serif;
+ 
+    
+}
+
+.form-div{
+    border-radius: 5px;
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 2px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+
+}
+
+
+form p{
+    font-size: 0.89em;
+   margin-top: 6px;
+}
+
+.form-div.login{
+    margin-top: 120px;
+}
+
+
